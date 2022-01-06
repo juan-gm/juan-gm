@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a software engineer who loves to solve difficult problems. I recently co-created Horus, an end-to-end open source observability solution for small microservice applications.
+
+
 
 <!--
 **juan-gm/juan-gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
