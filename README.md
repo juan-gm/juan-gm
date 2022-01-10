@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a software engineer based in Madrid, Spain ![image](https://user-images.githubusercontent.com/46029286/148739574-0f16d013-6904-4c4f-b80f-5e3e8835f5bd.png). I love solving hard problems and deciding between different tradeoffs. When I am not coding, I enjoy weightlifting 🏋️‍♂️, cycling 🚴‍♂️ and traveling ✈️.
+I'm a software engineer based in Madrid, Spain . I love solving hard problems and deciding between different tradeoffs. When I am not coding, I enjoy weightlifting 🏋️‍♂️, cycling 🚴‍♂️ and traveling ✈️.
 
-I recently co-created Horus ![slack-imgs](https://user-images.githubusercontent.com/46029286/148739366-3fe023e5-4ede-43d5-9ba1-cf31f3bef2dc.png), an end-to-end open source observability solution for small microservice applications.
+I recently co-created Horus, an end-to-end open source observability solution for small microservice applications.
 
 
 <!--
